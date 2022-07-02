@@ -4,8 +4,6 @@ metadata:
   name: pod-2
   labels:
     app: segundo-pod
-    fabio: cara-legal
-    time: sao-paulo
 spec:
   containers:
     - name: container-pod-2
